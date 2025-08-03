@@ -66,12 +66,6 @@ Encourages the model to reason step-by-step before giving an answer.
 - *Example 2:* "A train leaves station A at 3:00 PM traveling at 60 km/h. Another train leaves station B at 4:00 PM traveling at 80 km/h. When will they meet? Show your steps."
 - *Example 3:* "Evaluate the pros and cons of remote work by considering productivity, communication, and employee satisfaction in sequence."
 
-### 4. **Self-Critique Prompting**
-Ask the AI to reflect on and improve its own responses.
-- *Example 1:* "Review your previous response for any inaccuracies, logical gaps, or bias. Then suggest ways to improve it."
-- *Example 2:* "Evaluate your last answer for clarity and add missing explanations."
-- *Example 3:* "Was your previous response complete and helpful? Revise it if necessary."
-
 ---
 
 ## Evaluation Criteria for AI Responses
@@ -113,6 +107,9 @@ Create two prompts for two user groups and compare feedback.
 
 ### Self-Critique Prompting
 Ask the AI to evaluate and improve its previous output.
+- *Example 1:* "Review your previous response for any inaccuracies, logical gaps, or bias. Then suggest ways to improve it."
+- *Example 2:* "Evaluate your last answer for clarity and add missing explanations."
+- *Example 3:* "Was your previous response complete and helpful? Revise it if necessary."
 
 ---
 
