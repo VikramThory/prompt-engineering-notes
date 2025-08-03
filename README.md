@@ -5,7 +5,10 @@ A curated collection of notes, examples, and best practices for learning and mas
 
 ## Introduction
 Prompt Engineering is the art and science of designing effective queries or instructions to get the desired response from a generative AI system. A well-crafted prompt significantly enhances the quality, relevance, and accuracy of AI-generated content.
-- For detailed notes about different aspects of Prompt engineering and how to integrate with different languages and environments, and to find which model is suitable for the specific use cases refer to the official documentation:-
+
+---
+
+For detailed notes about different aspects of Prompt engineering and how to integrate with different languages and environments, and to find which model is suitable for the specific use cases refer to the official documentation:-
 - **ChatGPT** - https://platform.openai.com/docs/overview 
 
 ---
@@ -112,6 +115,18 @@ Ask the AI to evaluate and improve its previous output.
 - *Example 1:* "Review your previous response for any inaccuracies, logical gaps, or bias. Then suggest ways to improve it."
 - *Example 2:* "Evaluate your last answer for clarity and add missing explanations."
 - *Example 3:* "Was your previous response complete and helpful? Revise it if necessary."
+
+---
+
+## How to Reduce Repetition in AI Responses
+
+![How to Reduce Repetition in AI Responses](<img width="1536" height="1024" alt="ChatGPT Image Aug 3, 2025, 11_26_42 PM" src="https://github.com/user-attachments/assets/ca892769-6ba0-4a0a-a78e-57584af331b9" />
+)
+
+- **Vary the Prompt Design:** Add examples or change the structure of instruction.
+- **Use Parameters Smartly:** Adjust temperature and top_p to increase response diversity.
+- **Inject Contextual Anchors:** Refer to prior conversation or domain-specific keywords.
+- **Control Format Explicitly:** Ask for varied phrasing, tone, or perspective.
 
 ---
 
