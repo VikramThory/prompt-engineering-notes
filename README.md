@@ -5,8 +5,8 @@ A curated collection of notes, examples, and best practices for learning and mas
 
 ## Introduction
 Prompt Engineering is the art and science of designing effective queries or instructions to get the desired response from a generative AI system. A well-crafted prompt significantly enhances the quality, relevance, and accuracy of AI-generated content.
-For detailed notes about different aspects of Prompt engineering and how to integrate with different languages and environments, and to find which model is suitable for the specific use cases refer to the official documentation:-
-ChatGPT - https://platform.openai.com/docs/overview 
+- For detailed notes about different aspects of Prompt engineering and how to integrate with different languages and environments, and to find which model is suitable for the specific use cases refer to the official documentation:-
+- **ChatGPT** - https://platform.openai.com/docs/overview 
 
 ---
 
