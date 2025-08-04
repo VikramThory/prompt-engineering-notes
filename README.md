@@ -120,7 +120,7 @@ Ask the AI to evaluate and improve its previous output.
 
 ## How to Reduce Repetition in AI Responses
 
-![How to Reduce Repetition in AI Responses](<img width="1536" height="1024" alt="How to reduce repetition in ai response" src="https://github.com/user-attachments/assets/ca892769-6ba0-4a0a-a78e-57584af331b9" />
+![How to Reduce Repetition in AI Responses](<img width="1536" height="1024" alt="How to reduce repetition in ai response" src="https://github.com/VikramThory/prompt-engineering-notes/blob/main/prompt-engineering/Reduce%20Repetation%20in%20AI%20Response.png" />
 )
 
 - **Vary the Prompt Design:** Add examples or change the structure of instruction.
