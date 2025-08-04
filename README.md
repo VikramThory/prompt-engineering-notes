@@ -120,7 +120,7 @@ Ask the AI to evaluate and improve its previous output.
 
 ## How to Reduce Repetition in AI Responses
 
-![How to Reduce Repetition in AI Responses](<img width="1536" height="1024" alt="ChatGPT Image Aug 3, 2025, 11_26_42 PM" src="https://github.com/user-attachments/assets/ca892769-6ba0-4a0a-a78e-57584af331b9" />
+![How to Reduce Repetition in AI Responses](<img width="1536" height="1024" alt="How to reduce repetition in ai response" src="https://github.com/user-attachments/assets/ca892769-6ba0-4a0a-a78e-57584af331b9" />
 )
 
 - **Vary the Prompt Design:** Add examples or change the structure of instruction.
